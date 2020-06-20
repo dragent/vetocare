@@ -1,0 +1,26 @@
+#headerNavBar
+{
+	margin:0;
+	padding:0;
+}
+
+#headerNavBar li 
+{
+	display:inline;
+	padding:0;
+	margin:0;
+	margin-right: 10px;
+	padding-left: 10px;
+	font-size:15px;
+    
+}
+
+#headerNavBar a
+{
+	color : black;
+}
+
+.trait
+{
+	border-left: 1px solid black;
+}

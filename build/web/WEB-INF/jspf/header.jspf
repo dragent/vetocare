@@ -1,0 +1,6 @@
+<header>	
+		<ul id="headerNavBar">
+			<li id="connexionNav"> <a href="${pageContext.request.contextPath}/connector">connexion</a></li>
+			<li id="bloglNav" class="trait"> <a href="${pageContext.request.contextPath}/Inscription">inscription</a></li>
+		</ul>
+</header>
